@@ -4,7 +4,7 @@
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
-The Baltimore Sun analyzed crime data from [Open Baltimore](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij) for a story about the increase in carjackings in 2019.
+The Baltimore Sun analyzed crime data from [Open Baltimore](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij) for a Oct. 9, 2019 story about the increase in carjackings in 2019 titled ["Carjackings spike continues in Baltimore, with incidents up 30% from this time last year"](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-carjackings-rise-in-baltimore-20191009-tfj4xqx4sjhuhikxxxqp5re6im-story.html).
 
 The Sun's findings and analysis are available in the "analysis" markdown file in this repository: [`analysis.md`](https://github.com/baltimore-sun-data/balt-city-carjackings-2019/blob/master/analysis.md).
 
