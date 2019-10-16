@@ -1,2 +1,4 @@
 */*.eps
 *.DS_Store
+*/*.pdf
+*/*.ai
